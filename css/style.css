@@ -1,0 +1,23 @@
+
+body{
+background-color: #dcffcc;
+
+}
+img{
+  height: 125px;
+  width: auto;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 3px;
+  border-color: grey;
+}
+h1
+{
+  color: powderblue;
+}
+
+h3
+{color:powderblue;}

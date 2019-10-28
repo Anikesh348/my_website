@@ -1,0 +1,173 @@
+body
+{
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+h1
+{
+font-family: 'Sacramento', cursive;
+font-size: 5.625rem;
+color: #66BFBF;
+  margin-top: 0;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2rem;
+
+}
+h3
+{font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+font-size: 1.5rem;}
+p{
+  font-size: 1.3rem;
+  color: #40514E;
+}
+.top
+{
+
+ padding-top: 100px;
+  position:relative;
+background-color: #EAF6F6
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 4%;
+  border-width: 5px;
+
+
+}
+.para
+{
+  margin-bottom: 70px;
+}
+.me {
+  height: 200px;
+  width: auto;
+  margin-top: 50px;
+}
+.abc
+{
+  text-decoration: underline;
+
+}
+
+
+.skill
+{
+  color: #66BFBF;
+}
+.cloud1
+{ top:100px;
+  left: 200px;
+  width: auto;
+  position: absolute;
+}
+.cloud2
+{ bottom: 100px;
+  right:  20px;
+  width: auto;
+  position: absolute;
+}
+.skill-row
+{
+   /*bottom: 75px;*/
+  width: 75%;
+  margin:75px auto 75px auto;
+  line-height: 2;
+
+
+}
+
+.chillies
+{ position: relative;
+  float: left;
+  bottom: 30px;
+  margin-right: 20px;
+}
+.computer
+{position: relative;
+  bottom: 50px;
+  float: right;
+}
+.text1
+{
+  color: #40514E;
+}
+.text-2
+{
+  color: #40514E;
+}
+
+.bottom-container
+{ margin-top: 50px;
+ background-color: #66BFBF;
+ height: 170px;
+
+}
+.footer-link1
+{
+  position: relative;
+  top: 50px;
+  text-decoration: none;
+  right: 45px;
+
+  color: #11999E;
+}
+.footer-link1:hover
+{
+  color: #EAF6F6;
+}
+.footer-link2
+{
+  position: relative;
+  top: 50px;
+text-decoration: none;
+  margin: auto;
+  color: #11999E;
+}
+.footer-link2:hover
+{
+  color: #EAF6F6;
+}
+.footer-link3
+{
+  position: relative;
+  top: 50px;
+  left: 45px;
+  text-decoration: none;
+  color: #11999E;
+}
+.footer-link3:hover
+{
+  color: #EAF6F6;
+}
+.copy
+{
+  color: #EAF6F6;
+  position: relative;
+  top:70px;
+}
+.button {
+
+font-family: 'Montserrat', sans-serif;
+text-decoration: none;
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  padding: 10px 15px 10px 15px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+  border-radius: 8px;
+  font-size: 20px;
+}
+
+.contact-me
+{
+  margin-bottom: 70px;
+}
